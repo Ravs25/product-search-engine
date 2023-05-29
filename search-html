@@ -1,0 +1,72 @@
+  <section class="container">
+        <form>
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" name="" id="search-item" placeholder="search products" onkeyup="search()">
+        </form>
+
+        <div class="product-list" id="product-list">
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Tshirt for everone</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Hoodie fashion</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Adidas Grand Sneaker </h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Puma Roma Bag</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Grand Court Sneaker</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Fenta Fashion Hoodie</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Bag for Roadtrip</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Tranya Smart Watch</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+            <div class="product">
+                <img src="https://images.meesho.com/images/products/107403892/p80or_512.webp" alt="">
+                <div class="p-details">
+                    <h2>Fashionable Bags</h2>
+                    <h3>23$</h3>
+                </div>
+            </div>
+        </div>
+    </section>
